@@ -1,4 +1,4 @@
 <?php
    //phpinfo();
-   echo "Hello Word GHY!";
+   echo "Hello Word Kary!";
  ?>
